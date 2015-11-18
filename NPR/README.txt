@@ -1,1 +1,1 @@
-This project is about NPR and is focuced of Canny Edge detection alorithm.
+This project is about Non Photo Realistic graphics and is focused of Canny Edge detection alorithm. Erfan and I implemented an edge detecter, smoothed and thickened the edges, and alpha blended them into the original image for contrast. The result is a cartoonish twist 
